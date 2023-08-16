@@ -2,7 +2,6 @@
 // Desc  : Shapes program takes inputs for three children classes for our parent Shape class
 //         we are calculating volume/surfacearea and handling for exceptions
 // Author: Ashur Baroutta
-// Date  : 06/26/23
 
 #include <iostream>
 #include "Cylinder.h"
